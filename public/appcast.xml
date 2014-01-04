@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Whiskey Changelog</title>
+    <link>https://whiskey-app.s3.amazonaws.com/builds/appcast.xml</link>
+    <description>Most recent changes with links to updates.</description>
+    <language>en</language>
+    <item>
+      <title>Version 0.1</title>
+      <description>Initial alpha release.</description>
+      <pubDate>Sat, 04 Jan 2014 14:48:04 -0800</pubDate>
+      <sparkle:releaseNotesLink>http://getwhiskeyapp.com/release-notes/0.1</sparkle:releaseNotesLink>
+      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-2.zip" sparkle:version="2" length="941769" type="application/octet-stream" sparkle:dsaSignature="MCwCFFQxIjPkos64O4V7FOQ71LUITldJAhRx4gd09NsO58BD1vPeGV9xOQM4AQ==" />
+    </item>
+  </channel>
+</rss>
