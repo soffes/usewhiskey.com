@@ -1,0 +1,48 @@
+body {
+  font-family: 'Menlo', Courier, monospace;
+  font-style: 15px;
+  line-height: 1.5em;
+  padding: 10px 20px;
+}
+
+h1 {
+  font-size: 150%;
+}
+
+a {
+  color: #2095bd;
+  text-decoration: none;
+}
+
+a:before {
+  content: '[';
+}
+
+a:after {
+  content: '](' attr(href) ')';
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* From https://github.com/mrcoles/markdown-css/blob/master/markdown.css */
+h1 {
+  position: relative;
+  display: inline-block;
+  display: table-cell;
+  padding: 20px 0 40px;
+  margin: 0;
+  overflow: hidden;
+}
+
+h1:after {
+  content: "====================================================================================================";
+  position: absolute;
+  bottom: 20px;
+  left: 0;
+}
+
+h1 + * {
+  margin-top: 0;
+}
