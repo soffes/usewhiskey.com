@@ -1,13 +1,11 @@
-<% if @version == 0 %>
-<h1><a href="/" rel="home">Whiskey</a></h1>
-<% end %>
-
 <% @versions.each do |item| %>
 <% item_version = item.css('enclosure').first['sparkle:version'].to_i %>
 <% next if @version > 0 && item_version > @version %>
 <h3><%= item.css('title').inner_text %></h3>
 <p><em>Released <%= Date.parse(item.at_xpath('.//pubDate')) %></em></p>
 <%= item.at_xpath('.//description').inner_text %>
+<% unless @is_sparkle %>
 <p><a href="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-<%= item_version %>.zip">Download</a></p>
+<% end %>
 <hr>
 <% end %>

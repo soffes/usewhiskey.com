@@ -10,6 +10,7 @@ class Whiskey < Sinatra::Base
   end
 
   get %r{/release-notes(?:/(?<version>\d+))?} do
+    @is_sparkle = !request.user_agent.match(/\(KHTML, like Gecko\)$/).nil?
     @version = (params[:version] || 0).to_i
     @versions = doc.css('item')
     erb :release_notes
