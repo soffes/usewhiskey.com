@@ -26,6 +26,11 @@ a:hover {
   text-decoration: underline;
 }
 
+hr {
+  border: 0;
+  margin-bottom: 4em;
+}
+
 /* From https://github.com/mrcoles/markdown-css/blob/master/markdown.css */
 h1 {
   position: relative;

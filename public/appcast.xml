@@ -7,16 +7,18 @@
     <language>en</language>
     <item>
       <title>Version 0.1.1</title>
-      <description>Added font preferences.</description>
+      <description><![CDATA[<p>Added font preferences.</p>]]></description>
       <pubDate>Thu, 09 Jan 2014 19:50:18 -0800</pubDate>
-      <sparkle:releaseNotesLink>http://getwhiskeyapp.com/release-notes/0.1.1</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink>http://getwhiskeyapp.com/release-notes/3</sparkle:releaseNotesLink>
       <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-3.zip" sparkle:version="3" length="939977" type="application/octet-stream" sparkle:dsaSignature="MCwCFEUmUYC2ASDopoTOCFhn/9ysZYtSAhRykU/H4BML27DrditYS+R5Mw2YUg==" />
     </item>
     <item>
       <title>Version 0.1</title>
-      <description>Initial alpha release.</description>
+      <description><![CDATA[
+        <p>Initial alpha release.</p>
+      ]]></description>
       <pubDate>Sat, 04 Jan 2014 14:48:04 -0800</pubDate>
-      <sparkle:releaseNotesLink>http://getwhiskeyapp.com/release-notes/0.1</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink>http://getwhiskeyapp.com/release-notes/2</sparkle:releaseNotesLink>
       <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-2.zip" sparkle:version="2" length="941769" type="application/octet-stream" sparkle:dsaSignature="MCwCFFQxIjPkos64O4V7FOQ71LUITldJAhRx4gd09NsO58BD1vPeGV9xOQM4AQ==" />
     </item>
   </channel>

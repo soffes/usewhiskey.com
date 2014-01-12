@@ -1,2 +1,6 @@
-<h3>Version 0.1</h3>
-<p>Initial alpha release.</p>
+<% @versions.each do |item| %>
+<% next if @version > 0 && item.css('enclosure').first['sparkle:version'].to_i > @version %>
+<h3><%= item.css('title').inner_text %></h3>
+<%= item.at_xpath('.//description').inner_text %>
+<hr>
+<% end %>

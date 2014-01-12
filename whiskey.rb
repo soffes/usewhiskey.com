@@ -1,13 +1,20 @@
 class Whiskey < Sinatra::Base
   get '/' do
-    doc = Nokogiri::HTML(open('public/appcast.xml'))
     @version = doc.css('enclosure').first['sparkle:version']
     @version_title = doc.css('item title').first.inner_text
 
     erb :home
   end
 
-  get '/release-notes/:version' do
+  get %r{/release-notes(?:/(?<version>\d+))?} do
+    @version = (params[:version] || 0).to_i
+    @versions = doc.css('item')
     erb :release_notes
+  end
+
+  private
+
+  def doc
+    @doc ||= Nokogiri::XML(open('public/appcast.xml'))
   end
 end
