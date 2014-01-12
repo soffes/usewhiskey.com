@@ -1,8 +1,9 @@
 body {
   font-family: 'Menlo', Courier, monospace;
-  font-style: 15px;
+  font-size: 17px;
   line-height: 1.5em;
   padding: 10px 20px;
+  max-width: 640px;
 }
 
 h1 {
@@ -24,6 +25,10 @@ a:after {
 
 a:hover {
   text-decoration: underline;
+}
+
+em:before, em:after {
+  content: '*';
 }
 
 hr {

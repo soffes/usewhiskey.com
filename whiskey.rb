@@ -1,9 +1,12 @@
 class Whiskey < Sinatra::Base
   get '/' do
-    @version = doc.css('enclosure').first['sparkle:version']
     @version_title = doc.css('item title').first.inner_text
-
     erb :home
+  end
+
+  get '/latest' do
+    version = doc.css('enclosure').first['sparkle:version']
+    redirect "https://whiskey-app.s3.amazonaws.com/builds/Whiskey-#{version}.zip"
   end
 
   get %r{/release-notes(?:/(?<version>\d+))?} do
