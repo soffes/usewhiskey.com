@@ -2,9 +2,25 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Whiskey Changelog</title>
-    <link>https://whiskey-app.s3.amazonaws.com/builds/appcast.xml</link>
-    <description>Most recent changes with links to updates.</description>
+    <link>http://getwhiskeyapp.com/appcast.xml</link>
+    <description>Most recent changes to Whiskey.</description>
     <language>en</language>
+    <item>
+      <title>Version 0.1.2</title>
+      <description><![CDATA[
+        <p>What's new:</p>
+        <ul>
+          <li>Greatly improved parser (that's actually a parser now)</li>
+          <li>Added support for underlined headers</li>
+          <li>Added unordered list support</li>
+          <li>Added support for images</li>
+        </ul>
+        <p>This is the first version that uses a real parser instead of regular expressions. Internally it generates a tree representation of the text that will be useful for interactive editing and converting to other formats later.</p>
+      ]]></description>
+      <pubDate>Sun, 12 Jan 2014 14:39:41 -0500</pubDate>
+      <sparkle:releaseNotesLink>http://getwhiskeyapp.com/release-notes/4</sparkle:releaseNotesLink>
+      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-4.zip" sparkle:version="4" length="944647" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCtxeqSQLBSsz7oWbPj43iSCHVaxQIUcUhddiM7g4d8s3W6Q+Qrdu3eRRs=" />
+    </item>
     <item>
       <title>Version 0.1.1</title>
       <description><![CDATA[<p>Added font preferences.</p>]]></description>
