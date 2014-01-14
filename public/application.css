@@ -15,6 +15,15 @@ h1 {
   font-size: 150%;
 }
 
+h3 {
+  font-size: 110%;
+  color: rgb(76, 76, 76);
+}
+
+h3:before {
+  content: "### ";
+}
+
 a {
   color: #2095bd;
   text-decoration: none;
