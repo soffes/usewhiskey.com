@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Whiskey Changelog</title>
     <link>http://getwhiskeyapp.com/appcast.xml</link>
     <description>Most recent changes to Whiskey.</description>
     <language>en</language>
+    <item>
+      <title>Version 0.1.3</title>
+      <description><![CDATA[
+        <ul>
+          <li>Smart new lines</li>
+          <li>4 spaces instead of tabs</li>
+          <li>Fix `code`</li>
+          <li>Block-level parser improvements</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 16 Jan 2014 11:36:19 -0800</pubDate>
+      <sparkle:releaseNotesLink>http://getwhiskeyapp.com/release-notes/5</sparkle:releaseNotesLink>
+      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-5.zip" sparkle:version="5" length="946225" type="application/octet-stream" sparkle:dsaSignature="MCwCFDki4uQmr5zMeTFFgkTjb5DfRZxuAhQ3mU1nFpkiPqcKAma4qzPiFBK7tQ==" />
+    </item>
     <item>
       <title>Version 0.1.2</title>
       <description><![CDATA[
