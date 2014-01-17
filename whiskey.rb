@@ -1,3 +1,5 @@
+require 'json'
+
 class Whiskey < Sinatra::Base
   get '/' do
     @version_title = doc.css('item title').first.inner_text
@@ -7,6 +9,19 @@ class Whiskey < Sinatra::Base
   get '/latest' do
     version = doc.css('enclosure').first['sparkle:version']
     redirect "https://whiskey-app.s3.amazonaws.com/builds/Whiskey-#{version}.zip"
+  end
+
+  get '/latest.json' do
+    item = doc.css('item').first
+    enclosure = item.css('enclosure').first
+
+    headers 'Content-Type' => 'application/json'
+    {
+      version: enclosure['sparkle:version'],
+      short_version: item.css('title').text.sub('Version ', ''),
+      download_url: enclosure['url'],
+      release_notes_url: item.xpath('.//sparkle:releaseNotesLink').first.inner_text
+    }.to_json
   end
 
   get %r{/release-notes(?:/(?<version>\d+))?} do
