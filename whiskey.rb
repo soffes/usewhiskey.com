@@ -17,7 +17,7 @@ class Whiskey < Sinatra::Base
 
     headers 'Content-Type' => 'application/json'
     {
-      version: enclosure['sparkle:version'],
+      version: enclosure['sparkle:version'].to_i,
       short_version: item.css('title').text.sub('Version ', ''),
       download_url: enclosure['url'],
       release_notes_url: item.xpath('.//sparkle:releaseNotesLink').first.inner_text
