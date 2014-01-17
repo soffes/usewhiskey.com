@@ -6,6 +6,22 @@
     <description>Most recent changes to Whiskey.</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.4</title>
+      <description><![CDATA[
+        <ul>
+          <li>Sandboxing and Developer ID</li>
+          <li>New automatic updater</li>
+          <li>Improve header coloring</li>
+          <li>Disable smart quotes for now</li>
+          <li>Document icon</li>
+          <li>Register to open Markdown files</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 17 Jan 2014 13:49:48 -0800</pubDate>
+      <sparkle:releaseNotesLink>http://getwhiskeyapp.com/release-notes/5</sparkle:releaseNotesLink>
+      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-6.zip" sparkle:version="6" length="170687" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.1.3</title>
       <description><![CDATA[
         <ul>
