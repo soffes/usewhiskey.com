@@ -6,6 +6,18 @@
     <description>Most recent changes to Whiskey.</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.5</title>
+      <description><![CDATA[
+        <ul>
+          <li>New window design</li>
+          <li>⌘-click links and images to open</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sat, 18 Jan 2014 12:16:24 -0800</pubDate>
+      <sparkle:releaseNotesLink>http://getwhiskeyapp.com/release-notes/7</sparkle:releaseNotesLink>
+      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-7.zip" sparkle:version="7" length="173047" type="application/octet-stream" sparkle:dsaSignature="MC0CFD+hJ0+dxRvTUK6GLkzB4LceCc9gAhUAjEvZcn3BFtYOPKCDMewCdF3LhPM=" />
+    </item>
+    <item>
       <title>Version 0.1.4</title>
       <description><![CDATA[
         <ul>
