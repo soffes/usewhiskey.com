@@ -16,6 +16,14 @@ h1 {
   font-size: 150%;
 }
 
+h2 {
+  font-size: 120%;
+}
+
+h2:before {
+  content: "## ";
+}
+
 h3 {
   font-size: 110%;
   color: rgb(76, 76, 76);
