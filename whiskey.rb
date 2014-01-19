@@ -1,16 +1,11 @@
 require 'json'
 
 class Whiskey < Sinatra::Base
-  helpers do
-    def markdown(text)
-      renderer = Redcarpet::Markdown.new(Redcarpet::Render::HTML)
-      renderer.render(text).strip
-    end
-  end
-
   get '/' do
     @version_title = doc.css('item title').first.inner_text
-    markdown erb(:'home.markdown')
+    text = erb(:'home.markdown')
+    renderer = Redcarpet::Markdown.new(Redcarpet::Render::HTML)
+    renderer.render(text).strip
   end
 
   get '/latest' do
