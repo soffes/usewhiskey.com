@@ -56,6 +56,10 @@ em:before, em:after {
   content: '*';
 }
 
+strong:before, strong:after {
+  content: '**';
+}
+
 /* Hidden */
 hr {
   border: 0;
