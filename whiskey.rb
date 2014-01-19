@@ -1,9 +1,16 @@
 require 'json'
 
 class Whiskey < Sinatra::Base
+  helpers do
+    def markdown(text)
+      renderer = Redcarpet::Markdown.new(Redcarpet::Render::HTML)
+      renderer.render(text).strip
+    end
+  end
+
   get '/' do
     @version_title = doc.css('item title').first.inner_text
-    erb :home
+    markdown erb(:'home.markdown')
   end
 
   get '/latest' do
@@ -31,9 +38,13 @@ class Whiskey < Sinatra::Base
     erb :release_notes
   end
 
+  get '/changelog' do
+    redirect '/release-notes'
+  end
+
   private
 
   def doc
-    @doc ||= Nokogiri::XML(open('public/appcast.xml'))
+    @@doc ||= Nokogiri::XML(open('public/appcast.xml'))
   end
 end

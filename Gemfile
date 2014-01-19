@@ -18,6 +18,9 @@ gem 'rack-canonical-host'
 # XML parsing
 gem 'nokogiri'
 
+# Markdown
+gem 'redcarpet'
+
 group :development do
   # Reloading in development
   gem 'shotgun'
