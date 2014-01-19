@@ -3,9 +3,11 @@ require 'json'
 class Whiskey < Sinatra::Base
   get '/' do
     @version_title = doc.css('item title').first.inner_text
-    text = erb(:'home.markdown')
+    text = erb(:'home.markdown', layout: nil)
     renderer = Redcarpet::Markdown.new(Redcarpet::Render::HTML)
-    renderer.render(text).strip
+    markdown = renderer.render(text).strip
+
+    erb markdown
   end
 
   get '/latest' do
