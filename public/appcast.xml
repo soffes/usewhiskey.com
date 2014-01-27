@@ -6,6 +6,22 @@
     <description>Most recent changes to Whiskey.</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.6</title>
+      <description><![CDATA[
+        <ul>
+          <li>New outline view for headers. Press ⌘⇧O to toggle. Click an item in the outline to jump to it.</li>
+          <li>Added preference to use tabs instead of spaces</li>
+          <li>Improved navigation when using spaces instead of tabs</li>
+          <li>Added indent and unindent. Press ⌘[ and ⌘].</li>
+          <li>Improved full screen support</li>
+          <li>Smart quotes and smart dashes are now disabled inside code blocks only</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sun, 26 Jan 2014 23:28:54 -0500</pubDate>
+      <sparkle:releaseNotesLink>http://getwhiskeyapp.com/release-notes/8</sparkle:releaseNotesLink>
+      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-8.zip" sparkle:version="8" length="185295" type="application/octet-stream" sparkle:dsaSignature="MCwCFF7z+85YXjqH+gXXYx+35mmiwCpiAhRDhRvXJog9C78CQ/6d/2nUxDMC4A==" />
+    </item>
+    <item>
       <title>Version 0.1.5</title>
       <description><![CDATA[
         <ul>
