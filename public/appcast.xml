@@ -8,17 +8,9 @@
     <item>
       <title>Version 0.1.7</title>
       <description><![CDATA[
-        <p>Added word wrap</p>
-      ]]></description>
-      <pubDate>Mon, 27 Jan 2014 07:42:04 -0500</pubDate>
-      <sparkle:releaseNotesLink>http://getwhiskeyapp.com/release-notes/10</sparkle:releaseNotesLink>
-      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-10.zip" sparkle:version="10" length="186445" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCWcZIWML8OI9kCppux2l+1PJvm3QIUcBuBS+RH+rsYKJVmAItAXbTsOpI=" />
-    </item>
-    <item>
-      <title>Version 0.1.6</title>
-      <description><![CDATA[
         <ul>
           <li>New outline view for headers. Press ⌘⇧O to toggle. Click an item in the outline to jump to it.</li>
+          <li>Added word wrap toggle</li>
           <li>Added preference to use tabs instead of spaces</li>
           <li>Improved navigation when using spaces instead of tabs</li>
           <li>Added indent and unindent. Press ⌘[ and ⌘].</li>
@@ -27,9 +19,9 @@
           <li>Fixed automatic updater</li>
         </ul>
       ]]></description>
-      <pubDate>Sun, 26 Jan 2014 23:36:28 -0500</pubDate>
-      <sparkle:releaseNotesLink>http://getwhiskeyapp.com/release-notes/9</sparkle:releaseNotesLink>
-      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-9.zip" sparkle:version="9" length="185292" type="application/octet-stream" sparkle:dsaSignature="MCwCFGduUo777bgGrPw3L2LBntqJIKwzAhRzYQBkqdTxxi6ArHxiSeWBd6stPQ==" />
+      <pubDate>Mon, 27 Jan 2014 07:51:47 -0500</pubDate>
+      <sparkle:releaseNotesLink>http://getwhiskeyapp.com/release-notes/11</sparkle:releaseNotesLink>
+      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-11.zip" sparkle:version="11" length="186461" type="application/octet-stream" sparkle:dsaSignature="MCwCFDYkU43SzbG91jp+GASPUQD579vzAhQ9U/qNoE3TsXRS0E+sbwoJQnbMcQ==" />
     </item>
     <item>
       <title>Version 0.1.5</title>
