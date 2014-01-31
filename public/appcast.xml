@@ -6,6 +6,18 @@
     <description>Most recent changes to Whiskey.</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.8</title>
+      <description><![CDATA[
+        <ul>
+          <li>Fixed scrolling issues caused by word wrap. (Word wrap is still a little buggy.)</li>
+          <li>Pressing return in a list, code block, or block quote automatically adds the delimeter on the next line.</li>
+        </ul>
+      ]]></description>
+      <pubDate>***</pubDate>
+      <sparkle:releaseNotesLink>http://getwhiskeyapp.com/release-notes/12</sparkle:releaseNotesLink>
+      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-12.zip" sparkle:version="12" length="***" type="application/octet-stream" sparkle:dsaSignature="***" />
+    </item>
+    <item>
       <title>Version 0.1.7</title>
       <description><![CDATA[
         <ul>
