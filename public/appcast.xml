@@ -12,6 +12,7 @@
           <li>Fixed scrolling issues caused by word wrap. (Word wrap is still a little buggy.)</li>
           <li>Pressing return in a list, code block, or block quote automatically adds the delimeter on the next line. Pressing twice, removes the previous completion.</li>
         </ul>
+        <p>The cursor sometimes is too far to the left on new lines. Still working on that.</p>
       ]]></description>
       <pubDate>Fri, 31 Jan 2014 14:42:52 -0800</pubDate>
       <sparkle:releaseNotesLink>http://getwhiskeyapp.com/release-notes/12</sparkle:releaseNotesLink>
