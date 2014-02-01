@@ -4,7 +4,7 @@ class Whiskey < Sinatra::Base
   get '/' do
     @version_title = doc.css('item title').first.inner_text
     text = erb(:'home.markdown', layout: nil)
-    renderer = Redcarpet::Markdown.new(Redcarpet::Render::HTML)
+    renderer = Redcarpet::Markdown.new(Redcarpet::Render::HTML, highlight: true)
     markdown = renderer.render(text).strip
 
     erb markdown
