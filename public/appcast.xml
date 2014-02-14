@@ -13,9 +13,9 @@
           <li>Fix highlights at the beginning of paragraphs.</li>
         </ul>
       ]]></description>
-      <pubDate>Thu, 13 Feb 2014 17:54:17 -0800</pubDate>
-      <sparkle:releaseNotesLink>http://getwhiskeyapp.com/release-notes/13</sparkle:releaseNotesLink>
-      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-13.zip" sparkle:version="13" length="1916202" type="application/octet-stream" sparkle:dsaSignature="MC0CFHZGlnqjbrMVs/4gVMV72zpKUC+4AhUAl6/0tzdp+o13U0GJ/Jj/zrffO9I=" />
+      <pubDate>Thu, 13 Feb 2014 18:04:22 -0800</pubDate>
+      <sparkle:releaseNotesLink>http://getwhiskeyapp.com/release-notes/14</sparkle:releaseNotesLink>
+      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-14.zip" sparkle:version="14" length="3211541" type="application/octet-stream" sparkle:dsaSignature="MCwCFFUro9veuB0wE9GYCbPlCbs4S/IJAhQN4HWmA7n8k+jYEgf+g150zkGRpg==" />
     </item>
     <item>
       <title>Version 0.1.8</title>
