@@ -6,6 +6,19 @@
     <description>Most recent changes to Whiskey.</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.10</title>
+      <description><![CDATA[
+        <ul>
+          <li>Continuous preview for font size preference</li>
+          <li>Menu items (and keyboard shortcuts) for toggling bold, italic, underline, and highlight.</li>
+          <li>Improved selecting multiple lines and indenting or unindenting. (Unindenting still needs a little work.)
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 14 Feb 2014 15:46:08 -0800</pubDate>
+      <sparkle:releaseNotesLink>http://getwhiskeyapp.com/release-notes/15</sparkle:releaseNotesLink>
+      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-15.zip" sparkle:version="15" length="3214250" type="application/octet-stream" sparkle:dsaSignature="MC0CFFl4LL3vJmZjtX0vT0TrdubbwG/ZAhUAnrWBnUQ7/d/wk0GPDhw+C0xEirc=" />
+    </item>
+    <item>
       <title>Version 0.1.9</title>
       <description><![CDATA[
         <ul>
