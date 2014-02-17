@@ -6,12 +6,33 @@
     <description>Most recent changes to Whiskey.</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.11</title>
+      <description><![CDATA[
+        <ul>
+          <li>Command line launcher. Choose “Install Command Line Tool” from the Whiskey menu to install it or symlink the binary in `Whiskey.app/Contents/Shared Support/whiskey`.</li>
+          <li>Started on preferences design</li>
+          <li>Undo and redo for menu actions</li>
+          <li>Add strikethrough menu action</li>
+          <li>Add link to Markdown guide in Help menu</li>
+          <li>Added preference for code coloring. (Off by default since it’s still super buggy.)</li>
+          <li>Add fenced code block support.</li>
+          <li>Improved underlined headers parsing.</li>
+          <li>Improved support for multiline code blocks.</li>
+          <li>Improved disabling smart quotes and smart dashes in code blocks.</li>
+          <li>Add preference to disable varying size headers</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 17 Feb 2014 10:59:11 -0800</pubDate>
+      <sparkle:releaseNotesLink>http://getwhiskeyapp.com/release-notes/16</sparkle:releaseNotesLink>
+      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-16.zip" sparkle:version="16" length="3456749" type="application/octet-stream" sparkle:dsaSignature="MC4CFQCbt8WOU7sjGXKd3e6Y6Kwtdwo2oAIVAJBNEKD/eH0vExvop2aix2fytDU4" />
+    </item>
+    <item>
       <title>Version 0.1.10</title>
       <description><![CDATA[
         <ul>
           <li>Continuous preview for font size preference</li>
           <li>Menu items (and keyboard shortcuts) for toggling bold, italic, underline, and highlight.</li>
-          <li>Improved selecting multiple lines and indenting or unindenting. (Unindenting still needs a little work.)
+          <li>Improved selecting multiple lines and indenting or unindenting. (Unindenting still needs a little work.)</li>
         </ul>
       ]]></description>
       <pubDate>Fri, 14 Feb 2014 15:46:08 -0800</pubDate>
@@ -35,7 +56,7 @@
       <description><![CDATA[
         <ul>
           <li>Fixed scrolling issues caused by word wrap. (Word wrap is still a little buggy.)</li>
-          <li>Pressing return in a list, code block, or block quote automatically adds the delimeter on the next line. Pressing twice, removes the previous completion.</li>
+          <li>Pressing return in a list, code block, or block quote automatically adds the delimiter on the next line. Pressing twice, removes the previous completion.</li>
         </ul>
         <p>The cursor sometimes is too far to the left on new lines. Still working on that.</p>
       ]]></description>
