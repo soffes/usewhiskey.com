@@ -9,10 +9,10 @@
   <link rel="author" type="text/plain" href="/humans.txt">
 </head>
 <body>
-  <img src="/assets/icon-256@2x.png" alt="Whiskey Icon">
+  <img src="/assets/icon-256.png"  srcset="/assets/icon-256@2x.png 2x" alt="Whiskey Icon">
 
   <h1>Whiskey</h1>
-  <p>A modern Markdown app from <a href="http://nothingmagical.com" rel="external nofollow" target="_blank">Nothing Magical</a> for Mac &amp; iOS.</p>
+  <p>A modern <a href="http://daringfireball.net/projects/markdown/" rel="external nofollow" target="_blank">Markdown</a> app from <a href="http://nothingmagical.com" rel="external nofollow" target="_blank">Nothing Magical</a> for Mac &amp; iOS.</p>
   <p>Coming soon.</p>
 
   <form action="http://nothingmagical.createsend.com/t/j/s/oddtry/" method="post">
@@ -20,6 +20,7 @@
     <p><button type="submit">Get Notified</button></p>
   </form>
 
+  <script src="/assets/srcset.min.js"></script>
   <% if ENV['RACK_ENV'] == 'production' %>
   <script>var _gauges=_gauges||[];(function(){var t=document.createElement('script');t.async=true;t.id='gauges-tracker';t.setAttribute('data-site-id','52fe886cde2e266c9f002e21');t.src='//secure.gaug.es/track.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(t,s);})();</script>
   <% end %>
