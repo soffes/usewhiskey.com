@@ -2,8 +2,12 @@ require 'json'
 
 class Whiskey < Sinatra::Base
   get '/' do
+    erb :home
+  end
+
+  get '/beta' do
     @version_title = doc.css('item title').first.inner_text
-    markdown :home
+    markdown :beta
   end
 
   get '/support' do
@@ -32,7 +36,7 @@ class Whiskey < Sinatra::Base
     @is_sparkle = !request.user_agent.match(/\(KHTML, like Gecko\)$/).nil?
     @version = (params[:version] || 0).to_i
     @versions = doc.css('item')
-    erb :release_notes
+    erb :release_notes, layout: :markdown_layout
   end
 
   get '/changelog' do
@@ -48,6 +52,6 @@ class Whiskey < Sinatra::Base
   def markdown(name)
     text = erb(:"#{name.to_s}.markdown", layout: nil)
     renderer = Redcarpet::Markdown.new(Redcarpet::Render::HTML, highlight: true)
-    erb renderer.render(text).strip
+    erb renderer.render(text).strip, layout: :markdown_layout
   end
 end

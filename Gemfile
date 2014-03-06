@@ -21,6 +21,14 @@ gem 'nokogiri'
 # Markdown
 gem 'redcarpet'
 
+# Assets
+gem 'sprockets'
+
+# Stylesheet
+gem 'sass'
+gem 'sprockets-sass'
+gem 'bourbon'
+
 group :development do
   # Reloading in development
   gem 'shotgun'
