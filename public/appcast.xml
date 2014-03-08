@@ -16,7 +16,7 @@
           <li>Status bar (Press ⌘/ to toggle) with smart word count</li>
           <li>Fancy about window</li>
         </ul>
-        <p>The word count counts actual words and ignore Markdown syntax. If you’re curious, <a href="https://gist.github.com/soffes/855b4222187ec7712a3e">read more</a>.</p>
+        <p>The word count counts actual words and ignores Markdown syntax. If you’re curious, <a href="https://gist.github.com/soffes/855b4222187ec7712a3e">read more</a>.</p>
         <p>This release removes code coloring inside code blocks. My previous approach isn’t going to work. I’m considering either writing something from scratch or removing the feature for 1.0.</p>
         <p>I also had to remove the menu item to install the command line tool. You can simply symlink it from inside Whiskey’s bundle to where ever you want.</p>
       ]]></description>
