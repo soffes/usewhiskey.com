@@ -6,6 +6,21 @@
     <description>Most recent changes to Whiskey.</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.13</title>
+      <description><![CDATA[
+        <ul>
+          <li>File > Export > HTML menu item</li>
+          <li>Add “Copy HTML” contextual menu item</li>
+          <li>Fix smart list items, block quotes, and code blocks</li>
+        </ul>
+        <p>This is the first release with HTML export! The HTML is still a work in progress. Lists are the worst right now. I’m working to match character for character the reference implementations (Gruber and Redcarpet).</p>
+        <p>Smart list items still trigger if you are on the blank line after them. This will get fixed when the parser can understand plain line breaks from trailing new lines.</p>
+      ]]></description>
+      <pubDate>Sat, 08 Mar 2014 11:22:49 -0800</pubDate>
+      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/19</sparkle:releaseNotesLink>
+      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-19.zip" sparkle:version="19" length="4814074" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCNXqRUGebiB1Ie6eFDiFMEFgzpbQIUdUsd/hkeEADaCbt/48KDXNMr0ck=" />
+    </item>
+    <item>
       <title>Version 0.1.12</title>
       <description><![CDATA[
         <ul>
