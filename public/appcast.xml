@@ -6,6 +6,19 @@
     <description>Most recent changes to Whiskey.</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.14</title>
+      <description><![CDATA[
+        <ul>
+          <li>Improve code block parsing</li>
+          <li>Improve HTML export</li>
+        </ul>
+        <p>This release was all work on MarkdownKit, the engine that powers Whiskey. I’m going through a standard set of test files. So far 2 of 22 are passing. Next, I’ll be focusing on lists.</p>
+      ]]></description>
+      <pubDate>Sun, 09 Mar 2014 23:24:34 -0700</pubDate>
+      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/20</sparkle:releaseNotesLink>
+      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-20.zip" sparkle:version="20" length="4816656" type="application/octet-stream" sparkle:dsaSignature="MCwCFAL33G+5mUEc62fvdE5QeMzEwst9AhRVD9VKydx8CGxqSbSfbpulSdt6kQ==" />
+    </item>
+    <item>
       <title>Version 0.1.13</title>
       <description><![CDATA[
         <ul>
