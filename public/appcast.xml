@@ -14,9 +14,9 @@
         </ul>
         <p>This release was all work on MarkdownKit, the engine that powers Whiskey. I’m going through a standard set of test files. So far 2 of 22 are passing. Next, I’ll be focusing on lists.</p>
       ]]></description>
-      <pubDate>Sun, 09 Mar 2014 23:24:34 -0700</pubDate>
-      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/20</sparkle:releaseNotesLink>
-      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-20.zip" sparkle:version="20" length="4816656" type="application/octet-stream" sparkle:dsaSignature="MCwCFAL33G+5mUEc62fvdE5QeMzEwst9AhRVD9VKydx8CGxqSbSfbpulSdt6kQ==" />
+      <pubDate>Sun, 09 Mar 2014 23:41:31 -0700</pubDate>
+      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/21</sparkle:releaseNotesLink>
+      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-21.zip" sparkle:version="21" length="4816654" type="application/octet-stream" sparkle:dsaSignature="MCwCFFOMZp37p2tbQ3QAaJ9xp+7OeROuAhQ17/2R3kdI6B6Mpz5d3jyG7kzePw==" />
     </item>
     <item>
       <title>Version 0.1.13</title>
