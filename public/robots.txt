@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /beta
+Disallow: /release-notes
+Disallow: /latest
+Disallow: /latest.json
