@@ -6,6 +6,24 @@
     <description>Most recent changes to Whiskey.</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.15</title>
+      <description><![CDATA[
+        <ul>
+          <li>Greatly improved list support</li>
+          <li>Improved HTML export</li>
+          <li>More compliance with Gruber’s test suite</li>
+          <li>Fix links in span-level elements</li>
+          <li>Fix issues with span-level false matches</li>
+          <li>“Copy HTML” will copy the whole document if there is no selection.</li>
+          <li>Added “Copy HTML” keyboard shortcut: Command-Shift-C</li>
+          <li>New status bar design</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 21 Mar 2014 18:05:10 -0700</pubDate>
+      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/23</sparkle:releaseNotesLink>
+      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-23.zip" sparkle:version="23" length="4813129" type="application/octet-stream" sparkle:dsaSignature="MCwCFF/8bIPJd3N8EMFYs4mPySDv/WdRAhRiH5riu1ForH+n2gpBklpfe9tg3A==" />
+    </item>
+    <item>
       <title>Version 0.1.14</title>
       <description><![CDATA[
         <ul>
