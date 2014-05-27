@@ -13,9 +13,9 @@
           <li>RTF export support. Currently, this doesn’t handle high UTF-8 characters correctly.</li>
         </ul>
       ]]></description>
-      <pubDate>Tue, 27 May 2014 09:45:37 -0700</pubDate>
-      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/24</sparkle:releaseNotesLink>
-      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-24.zip" sparkle:version="24" length="4817618" type="application/octet-stream" sparkle:dsaSignature="MC0CFEM5YMK2J80l8PWeS5/5yQ4qKVgLAhUAi7pQcxpz6dxdNOji4iPf7AD82vk=" />
+      <pubDate>Tue, 27 May 2014 09:52:55 -0700</pubDate>
+      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/25</sparkle:releaseNotesLink>
+      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-25.zip" sparkle:version="25" length="4818812" type="application/octet-stream" sparkle:dsaSignature="MCwCFDf0qwT44yDuRwJgDssldRudRP0VAhQyUjfLf6d0/RE51IrONnM4SbWU1w==" />
     </item>
     <item>
       <title>Version 0.1.15</title>
