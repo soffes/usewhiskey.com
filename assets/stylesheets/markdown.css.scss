@@ -60,6 +60,15 @@ strong:before, strong:after {
   content: '**';
 }
 
+code {
+  color: #999;
+  font-family: 'Menlo', Courier, monospace;
+}
+
+code:before, code:after {
+  content: '`';
+}
+
 mark {
   background: #fdfcc9;
   padding: 0.2em 0;
