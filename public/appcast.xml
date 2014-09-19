@@ -6,6 +6,18 @@
     <description>Most recent changes to Whiskey.</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.17</title>
+      <description><![CDATA[
+        <ul>
+          <li>Indent list items that wrap</li>
+          <li>Toggle tasks with Command-Return. You can make tasks like this: <code>- [ ] Call mom</code></li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 19 Sep 2014 11:03:41 +0200</pubDate>
+      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/26</sparkle:releaseNotesLink>
+      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-26.zip" sparkle:version="26" length="4730625" type="application/octet-stream" sparkle:dsaSignature="MCwCFEVGqq0idXLRGvBe0bJBifLT27NWAhRnu5ZWC1CYraxI4IREGU2zU2gu0w==" />
+    </item>
+    <item>
       <title>Version 0.1.16</title>
       <description><![CDATA[
         <ul>
