@@ -13,9 +13,9 @@
           <li>Toggle tasks with Command-Return. You can make tasks like this: <code>- [ ] Call mom</code></li>
         </ul>
       ]]></description>
-      <pubDate>Fri, 19 Sep 2014 11:03:41 +0200</pubDate>
-      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/26</sparkle:releaseNotesLink>
-      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-26.zip" sparkle:version="26" length="4730625" type="application/octet-stream" sparkle:dsaSignature="MCwCFEVGqq0idXLRGvBe0bJBifLT27NWAhRnu5ZWC1CYraxI4IREGU2zU2gu0w==" />
+      <pubDate>Sat, 20 Sep 2014 06:21:32 +0200</pubDate>
+      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/27</sparkle:releaseNotesLink>
+      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-27.zip" sparkle:version="27" length="5021018" type="application/octet-stream" sparkle:dsaSignature="MCwCFHcijUEVYAD64J3t3ilyXqavPAGVAhQ/MqO+Hw12S7qfTY0TVQBoyK4Zbg==" />
     </item>
     <item>
       <title>Version 0.1.16</title>
