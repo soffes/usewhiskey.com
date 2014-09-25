@@ -6,6 +6,19 @@
     <description>Most recent changes to Whiskey.</description>
     <language>en</language>
     <item>
+      <title>Version 0.2</title>
+      <description><![CDATA[
+        <ul>
+          <li>Initial support for code coloring inside of fenced code blocks</li>
+          <li>Improve automatic smart quotes</li>
+          <li>Lots of performance improvements</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 25 Sep 2014 08:37:10 +0000</pubDate>
+      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/28</sparkle:releaseNotesLink>
+      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-28.zip" sparkle:version="28" length="5205636" type="application/octet-stream" sparkle:dsaSignature="MC0CFE9FX94sGnDT99A9Uax98rsFdxahAhUAhmNTxaHJepeyObdBZ4/KvaYnNXw=" />
+    </item>
+    <item>
       <title>Version 0.1.17</title>
       <description><![CDATA[
         <ul>
