@@ -13,9 +13,9 @@
           <li>Fix for default preferences not being applied correctly</li>
         </ul>
       ]]></description>
-      <pubDate>Tue, 30 Sep 2014 09:56:13 -0400</pubDate>
-      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/29</sparkle:releaseNotesLink>
-      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-29.zip" sparkle:version="29" length="5203520" type="application/octet-stream" sparkle:dsaSignature="MCwCFH82dddKB18Ux7XK+11UasFDd1YWAhQG/+S2uH1dx87dnTuCiK0GLxfJxw==" />
+      <pubDate>Fri, 03 Oct 2014 17:49:38 -0400</pubDate>
+      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/30</sparkle:releaseNotesLink>
+      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-30.zip" sparkle:version="30" length="5203465" type="application/octet-stream" sparkle:dsaSignature="MC0CFHxEKk7BYMOCmbvk84mj6geYtYPgAhUAmklcOgqKanS3Q1kKB8OY9tNQe9o=" />
     </item>
     <item>
       <title>Version 0.2</title>
