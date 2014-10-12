@@ -14,9 +14,9 @@
           <li>Fix document icon. You may need to rebuild your LaunchServices database to see it.</li>
         </ul>
       ]]></description>
-      <pubDate>Sat, 11 Oct 2014 21:55:19 -0700</pubDate>
-      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/31</sparkle:releaseNotesLink>
-      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-31.zip" sparkle:version="31" length="5293176" type="application/octet-stream" sparkle:dsaSignature="MC4CFQCoReqkvhb0fmPY3iFYGvqoYqhNKAIVAKgaWw1QW9wf85VWwouBdK9Q6EAj" />
+      <pubDate>Sat, 11 Oct 2014 22:16:45 -0700</pubDate>
+      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/32</sparkle:releaseNotesLink>
+      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-32.zip" sparkle:version="32" length="5293020" type="application/octet-stream" sparkle:dsaSignature="MCwCFFlAGcuGESzIqNdg4lqfBOesHb/kAhRVryB7nh16N/rOOF091SPLvtIvNQ==" />
     </item>
     <item>
       <title>Version 0.2.1</title>
