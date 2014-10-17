@@ -6,6 +6,20 @@
     <description>Most recent changes to Whiskey.</description>
     <language>en</language>
     <item>
+      <title>Version 0.2.3</title>
+      <description><![CDATA[
+        <ul>
+          <li>Added maximum width for text to improve full screen experience</li>
+          <li>Removed buggy word-wrap preference</li>
+          <li>Improved <code>&amp;</code> handling when exporting to HTML</li>
+          <li>Markdown parser improvements</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 16 Oct 2014 21:06:29 -0700</pubDate>
+      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/33</sparkle:releaseNotesLink>
+      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-33.zip" sparkle:version="33" length="5213082" type="application/octet-stream" sparkle:dsaSignature="MCwCFFCMq9cPf+Nb8YtAztWNn4BIQ/X5AhRibJI49hPVyjgR2qlqxHdlk9iiZA==" />
+    </item>
+    <item>
       <title>Version 0.2.2</title>
       <description><![CDATA[
         <ul>
