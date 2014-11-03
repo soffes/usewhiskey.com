@@ -12,12 +12,8 @@ body {
   }
 }
 
-h1 {
-  font-size: 150%;
-}
-
-h2 {
-  font-size: 120%;
+h1, h2, h3, h4, h5, h6 {
+  font-size: 100%;
 }
 
 h2:before {
@@ -25,7 +21,6 @@ h2:before {
 }
 
 h3 {
-  font-size: 110%;
   color: rgb(76, 76, 76);
 
   &:before {
@@ -89,6 +84,7 @@ ul {
 
   li {
     list-style: none;
+    color: #2ca997;
 
     &:before {
       content: "    * ";
