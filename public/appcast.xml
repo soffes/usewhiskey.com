@@ -6,6 +6,19 @@
     <description>Most recent changes to Whiskey.</description>
     <language>en</language>
     <item>
+      <title>Version 0.2.4</title>
+      <description><![CDATA[
+        <ul>
+          <li>Fix bold italic</li>
+          <li>Markdown parser improvements</li>
+          <li>Other improvements</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 03 Nov 2014 15:42:29 -0500</pubDate>
+      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/35</sparkle:releaseNotesLink>
+      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-35.zip" sparkle:version="35" length="5236199" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCN8dO4JPbg2X1mUmod1hp9Ep0fqQIUZke/t9+LtIB3Fznu1xGFLea1gT4=" />
+    </item>
+    <item>
       <title>Version 0.2.3</title>
       <description><![CDATA[
         <ul>
