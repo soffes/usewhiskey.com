@@ -45,6 +45,16 @@ a {
     color: #2095bd;
     border-bottom: 2px solid;
   }
+
+  &.autolink {
+    &:before {
+      content: '<';
+    }
+
+    &:after {
+      content: '>';
+    }
+  }
 }
 
 em:before, em:after {
