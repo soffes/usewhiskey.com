@@ -21,7 +21,7 @@
         <p>Thanks so much for all of your feedback. Keep it coming!</p>
       ]]></description>
       <pubDate>Mon, 03 Nov 2014 16:17:48 -0500</pubDate>
-      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/36</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/37</sparkle:releaseNotesLink>
       <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-37.zip" sparkle:version="37" length="5248252" type="application/octet-stream" sparkle:dsaSignature="MCwCFBDwsMIdbSdvNk38busSvHU2n7FSAhR5rZOPhK/60RhYE3zBkDWMsvQT2g==" />
     </item>
     <item>
