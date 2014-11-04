@@ -6,6 +6,25 @@
     <description>Most recent changes to Whiskey.</description>
     <language>en</language>
     <item>
+      <title>Version 0.3</title>
+      <description><![CDATA[
+        <ul>
+          <li>Emoji support 😎</li>
+          <li>Support <code>txt</code> and <code>text</code> files</li>
+          <li>Disable resizing preferences window</li>
+          <li>Allow the window to get narrower</li>
+          <li>Fix bug with <code>==</code> headers at the beginning of a document.</li>
+          <li>Don’t spell check code or URLs</li>
+          <li>Move spell checking preference from menu bar to preferences window</li>
+          <li>Prevent trying to open URLs that don’t have an app to handle them</li>
+        </ul>
+        <p>Thanks so much for all of your feedback. Keep it coming!</p>
+      ]]></description>
+      <pubDate>Mon, 03 Nov 2014 16:17:48 -0500</pubDate>
+      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/36</sparkle:releaseNotesLink>
+      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-37.zip" sparkle:version="37" length="5248252" type="application/octet-stream" sparkle:dsaSignature="MCwCFBDwsMIdbSdvNk38busSvHU2n7FSAhR5rZOPhK/60RhYE3zBkDWMsvQT2g==" />
+    </item>
+    <item>
       <title>Version 0.2.4</title>
       <description><![CDATA[
         <ul>
