@@ -10,7 +10,6 @@
       <description><![CDATA[
         <ul>
           <li>Emoji support 😎</li>
-          <li>Support <code>txt</code> and <code>text</code> files</li>
           <li>Disable resizing preferences window</li>
           <li>Allow the window to get narrower</li>
           <li>Fix bug with <code>==</code> headers at the beginning of a document.</li>
