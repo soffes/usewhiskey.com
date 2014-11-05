@@ -22,6 +22,7 @@
       <pubDate>Tue, 04 Nov 2014 17:53:55 -0800</pubDate>
       <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/41</sparkle:releaseNotesLink>
       <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-41.zip" sparkle:version="41" length="4930309" type="application/octet-stream" sparkle:dsaSignature="MCwCFErONUfMM9WUmGuUivzlVRPtHKUfAhQ8V0NZbfT2ilpDnhw14khhtR3tHg==" />
+    </item>
     <item>
       <title>Version 0.2.4</title>
       <description><![CDATA[
