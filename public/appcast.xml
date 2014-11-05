@@ -19,9 +19,9 @@
         </ul>
         <p>Thanks so much for all of your feedback. Keep it coming!</p>
       ]]></description>
-      <pubDate>Tue, 04 Nov 2014 17:35:12 -0800</pubDate>
-      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/39</sparkle:releaseNotesLink>
-      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-39.zip" sparkle:version="39" length="5244684" type="application/octet-stream" sparkle:dsaSignature="MC0CFCMnmczAS4B3IcC6dZQjc4WKzM45AhUAq42MZg2n6YRLFRynboDvkcutOao=" />    </item>
+      <pubDate>Tue, 04 Nov 2014 17:39:53 -0800</pubDate>
+      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/40</sparkle:releaseNotesLink>
+      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-40.zip" sparkle:version="40" length="5244728" type="application/octet-stream" sparkle:dsaSignature="MC4CFQCvYDIpUef6WkXXg81Wi0fa4KGM5QIVAJgO2EeDOrcFTYwTbbFqDg8gi0r7" />
     <item>
       <title>Version 0.2.4</title>
       <description><![CDATA[
