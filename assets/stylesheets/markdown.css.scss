@@ -91,13 +91,16 @@ hr {
 
 ul {
   margin-left: 0;
+  padding-left: 0;
 
   li {
     list-style: none;
     color: #2ca997;
+    padding-left: 1.2em;
 
     &:before {
       content: "    * ";
+      margin-left: -1.2em;
     }
   }
 }
