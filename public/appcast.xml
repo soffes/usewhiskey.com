@@ -6,6 +6,23 @@
     <description>Most recent changes to Whiskey.</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.1</title>
+      <description><![CDATA[
+        <ul>
+          <li>Support <code>txt</code> and <code>text</code> files</li>
+          <li>Correctly count characters</li>
+          <li>Fix markdown getting parsed inside code</li>
+          <li>Theme support with several new themes!</li>
+          <li>Fancy new blurry sidebar with a better design</li>
+          <li>Animated neat/rocks switch</li>
+        </ul>
+        <p>This version now requires Yosemite.</p>
+      ]]></description>
+      <pubDate>Thu, 06 Nov 2014 17:08:34 -0800</pubDate>
+      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/42</sparkle:releaseNotesLink>
+      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-42.zip" sparkle:version="42" length="4928281" type="application/octet-stream" sparkle:dsaSignature="MC4CFQCKAoiTNPxMNq/UN6xCDs93J3erRgIVAKymO8HIsG+FyjnYwcHIvrceGuZ3" />
+    </item>
+    <item>
       <title>Version 0.3</title>
       <description><![CDATA[
         <ul>
