@@ -6,6 +6,19 @@
     <description>Most recent changes to Whiskey.</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.2</title>
+      <description><![CDATA[
+        <ul>
+          <li>Improved window positioning</li>
+          <li>Don’t prompt to save for a blank document</li>
+          <li>Fix code highlighting</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 07 Nov 2014 10:37:35 -0800</pubDate>
+      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/43</sparkle:releaseNotesLink>
+      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-43.zip" sparkle:version="43" length="4928907" type="application/octet-stream" sparkle:dsaSignature="MC0CFBxUd+xPjjlpRS+vUBY37X5mp0pVAhUAoURDfWJkyoQ2YS+Kngy6Rz74SDI=" />
+    </item>
+    <item>
       <title>Version 0.3.1</title>
       <description><![CDATA[
         <ul>
