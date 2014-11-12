@@ -6,6 +6,26 @@
     <description>Most recent changes to Whiskey.</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.3</title>
+      <description><![CDATA[
+        <ul>
+          <li>Improved link parsing</li>
+          <li>Improved theme system</li>
+          <li>New themes from <a href="https://twitter.com/maxvoltar">Tim Van Damme</a></li>
+          <li>Fix document icon</li>
+        </ul>
+
+        <p>Whiskey now uses Sparkle for updates so you can conveniently click “Install and Relaunch.” Sandboxing had to be disabled to make Sparkle work. The App Store version will definitely be sandboxed.</p>
+
+        <p>I’ve also added some analytics to help with development. Only two events are tracked: launches and opening a document. No other information is collected. The content of a document isn’t recorded and never leaves your computer.</p>
+
+        <p>Thanks for helping test Whiskey. Send any feedback to <a class="autolink" href="sam@nothingmagical.com">sam@nothingmagical.com</a>.</p>
+      ]]></description>
+      <pubDate>Wed, 12 Nov 2014 15:15:52 -0800</pubDate>
+      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/45</sparkle:releaseNotesLink>
+      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-45.zip" sparkle:version="45" length="6088356" type="application/octet-stream" sparkle:dsaSignature="MCwCFC2+0ofdiX6Fbxv/kciVL7vs0T6uAhQtuXUKc/MpIVAvOVv+lxjwZ1E5Ig==" />
+    </item>
+    <item>
       <title>Version 0.3.2</title>
       <description><![CDATA[
         <ul>
