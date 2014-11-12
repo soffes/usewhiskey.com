@@ -5,7 +5,7 @@
 <p><em>Released <%= Date.parse(item.at_xpath('.//pubDate')) %></em></p>
 <%= item.at_xpath('.//description').inner_text %>
 <% if !@is_sparkle && i == 0 %>
-<p><a href="/latest">Download</a></p>
+<p><mark><a href="/latest">Download <%= item.css('title').inner_text %></a></mark></p>
 <% end %>
 <hr>
 <% end %>
