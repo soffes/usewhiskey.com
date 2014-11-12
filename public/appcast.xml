@@ -11,8 +11,10 @@
         <ul>
           <li>Improved link parsing</li>
           <li>Improved theme system</li>
-          <li>New themes from <a href="https://twitter.com/maxvoltar">Tim Van Damme</a></li>
+          <li>New theme from <a href="twitter.com/maxvoltar">Tim Van Damme</a></li>
           <li>Fix document icon</li>
+          <li>Improved sidebar behavior and colors</li>
+          <li>Improved status bar colors</li>
         </ul>
 
         <p>Whiskey now uses Sparkle for updates so you can conveniently click “Install and Relaunch.” Sandboxing had to be disabled to make Sparkle work. The App Store version will definitely be sandboxed.</p>
