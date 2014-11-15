@@ -5,6 +5,21 @@
     <link>http://usewhiskey.com/appcast.xml</link>
     <description>Most recent changes to Whiskey.</description>
     <language>en</language>
+     <item>
+      <title>Version 0.3.4</title>
+      <description><![CDATA[
+        <ul>
+          <li>Fix Fireball theme</li>
+          <li>First draft of HTML preview</li>
+        </ul>
+
+        <p>Better HTML preview is definitely coming. Hacked this first draft together pretty quick. It will definitely be a pane in the main window instead of its own window. I’m trying to figure out how themes will work. Right now, it just uses whatever theme you have selected for typing. Please send any ideas on how you want this to work to <a href="sam@nothingmagical.com" class="autolink">sam@nothingmagical.com</a>. Thanks everyone!</p>
+      ]]></description>
+      <pubDate>Fri, 14 Nov 2014 16:37:15 -0800</pubDate>
+      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/46</sparkle:releaseNotesLink>
+      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-46.zip" sparkle:version="46" length="7345730" type="application/octet-stream" sparkle:dsaSignature="MCwCFF9TN7dcH3mIqPaMch6KGdltnzW5AhReht77lMCpXGw51xN7irbDeeeoAQ==" />
+    </item>
+    <item>
     <item>
       <title>Version 0.3.3</title>
       <description><![CDATA[
