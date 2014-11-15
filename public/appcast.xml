@@ -20,7 +20,6 @@
       <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-46.zip" sparkle:version="46" length="7345730" type="application/octet-stream" sparkle:dsaSignature="MCwCFF9TN7dcH3mIqPaMch6KGdltnzW5AhReht77lMCpXGw51xN7irbDeeeoAQ==" />
     </item>
     <item>
-    <item>
       <title>Version 0.3.3</title>
       <description><![CDATA[
         <ul>
