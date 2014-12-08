@@ -5,7 +5,30 @@
     <link>http://usewhiskey.com/appcast.xml</link>
     <description>Most recent changes to Whiskey.</description>
     <language>en</language>
-      <item>
+    <item>
+      <title>Version 0.3.6</title>
+      <description><![CDATA[
+        <ul>
+          <li>New preview split pane</li>
+          <li>Improve status bar calculations and speed</li>
+          <li>Improve reliability when deleting backwards</li>
+          <li>Improve text selection colors</li>
+          <li>⌘K to insert a link. This is still needs some work, but it’s a start.</li>
+          <li>⌘-click to toggle task completion </li>
+          <li>⌘J to toggle inline code. (Definitely open to suggestions for a better keyboard shortcut.)</li>
+        </ul>
+
+        <p>The keyboard shortcut for toggling the outline is now ⌘⌥O. <mark>You can toggle the new preview pane with ⌘⌥P.</mark></p>
+
+        <p>This update has a lot of technical changes. The Mac app portion (actually relatively small since most of the code is in shared frameworks so it can work on iOS) has been rewritten in Swift. Whiskey now uses storyboards on the Mac as well. This is a huge improvement because using view controllers and auto layout becomes a lot easier. <mark>Hopefully this will fix any weirdness with blank windows.</mark></p>
+
+        <p>Support for more languages is coming (hopefully) in the next update. The emoji fix has been remove since the multi-language will fix that indirectly. I’ve been delaying sending this out for a bit since I had hoped to get that in this one, but it’s taking awhile and wanted to go ahead and send this out.</p>
+      ]]></description>
+      <pubDate>Sun, 07 Dec 2014 16:31:02 -0800</pubDate>
+      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/48</sparkle:releaseNotesLink>
+      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-48.zip" sparkle:version="48" length="8315093" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCBND69zr0TbIUt2pXC+dF/0T9TLwIUUqgx1eZg8qCKaQhj1g8yB5rocDw=" />
+    </item>
+    <item>
       <title>Version 0.3.5</title>
       <description><![CDATA[
         <ul>
@@ -18,7 +41,7 @@
       <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/47</sparkle:releaseNotesLink>
       <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-47.zip" sparkle:version="47" length="7345698" type="application/octet-stream" sparkle:dsaSignature="MCwCFHUVCU7gVD+kYQrs8edR922WTn4hAhRSLnW5dL3jmOdLYfrZOG6FUACcew==" />
     </item>
-     <item>
+    <item>
       <title>Version 0.3.4</title>
       <description><![CDATA[
         <ul>
