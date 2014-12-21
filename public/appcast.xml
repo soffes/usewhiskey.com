@@ -6,6 +6,24 @@
     <description>Most recent changes to Whiskey.</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.7</title>
+      <description><![CDATA[
+        <ul>
+          <li>Enable code coloring by default</li>
+          <li>Change default save extension to <code>.markdown</code></li>
+          <li>Status bar now changes color with themes properly</li>
+          <li>Fix changing between <em>Solarized Dark</em> and <em>Solarized Light</em> themes</li>
+          <li>Fix smart quotes inside of links and images</li>
+          <li>Allow opening <code>.apib</code> files</li>
+          <li>Improve undo</li>
+          <li>Improve indenting and unidenting</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sun, 21 Dec 2014 08:45:24 +0000</pubDate>
+      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/49</sparkle:releaseNotesLink>
+      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-49.zip" sparkle:version="49" length="8315811" type="application/octet-stream" sparkle:dsaSignature="MCwCFC9C2P52ZZNlcT8VoeIOjpo48aKcAhROZ2V325DqJl0RoCIErNKJkzQk6g==" />
+    </item>
+    <item>
       <title>Version 0.3.6</title>
       <description><![CDATA[
         <ul>
