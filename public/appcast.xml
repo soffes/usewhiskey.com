@@ -17,6 +17,8 @@
           <li>Basic horizontal rule parsing</li>
           <li>Horizontal rules show up in outline</li>
           <li>Fix scroll bars on dark themes</li>
+          <li>Fix dragging files onto the dock icon to open them</li>
+          <li>Fix bug with deleting a single character</li>
         </ul>
       ]]></description>
       <pubDate>Mon, 10 Aug 2015 19:51:26 -0700</pubDate>
