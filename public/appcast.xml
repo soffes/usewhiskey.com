@@ -6,6 +6,24 @@
     <description>Most recent changes to Whiskey.</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.8</title>
+      <description><![CDATA[
+        <ul>
+          <li>Fix random dots appearing under text</li>
+          <li>Fix full screen</li>
+          <li>Disable dash correction for now</li>
+          <li>⌘K will prefill your clipboard if it contains a link</li>
+          <li>Fix window not remembering its position</li>
+          <li>Basic horizontal rule parsing</li>
+          <li>Horizontal rules show up in outline</li>
+          <li>Fix scroll bars on dark themes</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 10 Aug 2015 19:51:26 -0700</pubDate>
+      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/336</sparkle:releaseNotesLink>
+      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-336.zip" sparkle:version="336" length="8909005" type="application/octet-stream" sparkle:dsaSignature="MCwCFGeKpVEK460BJXe07Nsbb40KGGoSAhQuPyiZqHQlDvdin7VnZF9cjsmP/g==" />
+    </item>
+    <item>
       <title>Version 0.3.7</title>
       <description><![CDATA[
         <ul>
