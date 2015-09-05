@@ -6,6 +6,24 @@
     <description>Most recent changes to Whiskey.</description>
     <language>en</language>
     <item>
+      <title>Version 0.4.0</title>
+      <description><![CDATA[
+        <ul>
+          <li>Fix code coloring not working for some languages</li>
+          <li>Add support for code coloring with dark themes</li>
+          <li>Fix file extensions being override to `.markdown`</li>
+          <li>Allow any text file to be opened</li>
+          <li>Fix code blocks showing up twice in HTML</li>
+          <li>Command-Shift-Return to insert a newline above</li>
+          <li>Command-Return to insert a newline before</li>
+        </ul>
+        <p>Code coloring is greatly improved in this release. It’s still pretty inaccurate. I’ll work on improving that in future releases.</p>
+      ]]></description>
+      <pubDate>Sat, 05 Sep 2015 14:07:07 -0700</pubDate>
+      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/357</sparkle:releaseNotesLink>
+      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-357.zip" sparkle:version="357" length="12136165" type="application/octet-stream" sparkle:dsaSignature="MCwCFGofo22nIc12cANBtFSxIBZJKm95AhRFiLDtD+uF3zVgWetfFeW238hkpA==" />
+    </item>
+    <item>
       <title>Version 0.3.8</title>
       <description><![CDATA[
         <ul>
