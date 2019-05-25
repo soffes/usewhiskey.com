@@ -8,7 +8,7 @@ html {
 
 body {
   color: #fee9c1;
-  font-family: 'Whitney A', 'Whitney B';
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
   font-weight: 400;
   font-size: 22px;
   text-align: center;
@@ -57,7 +57,7 @@ input {
   height: 44px;
   outline: 0;
   border: 2px solid transparent;
-  font-family: 'Whitney A', 'Whitney B';
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
   font-weight: 400;
   font-size: 18px;
   color: #333;
@@ -71,7 +71,7 @@ input {
 button {
   background: #e88237;
   padding: 10px 15px;
-  font-family: 'Whitney A', 'Whitney B';
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
   font-weight: 600;
   font-size: 18px;
   border: 0;
