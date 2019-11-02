@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 # Latest Ruby
-ruby '2.6.2'
+ruby '2.6.5'
 
 # Web server
 gem 'puma'
