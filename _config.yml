@@ -9,6 +9,9 @@ strict_front_matter: true
 exclude:
   - README.md
 permalink: /:title
+sass:
+  sass_dir: _sass
+  style: compressed
 defaults:
   -
     scope:

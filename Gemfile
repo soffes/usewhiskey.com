@@ -11,4 +11,5 @@ group :development do
   gem 'rubocop', require: false
   gem 'rubocop-performance', require: false
   gem 'rubocop-rake', require: false
+  gem 'webrick'
 end

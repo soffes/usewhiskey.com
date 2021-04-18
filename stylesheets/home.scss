@@ -1,0 +1,82 @@
+---
+---
+
+@import "reset";
+
+html {
+  -webkit-font-smoothing: antialiased;
+  background: #2d2725;
+}
+
+body {
+  color: #fee9c1;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  font-weight: 400;
+  font-size: 22px;
+  text-align: center;
+  width: 300px;
+  margin: 2em auto;
+  line-height: 1.2em;
+}
+
+a {
+  color: #fee9c1;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(253,232,195,0.5);
+
+  &:hover {
+    border-bottom: 1px solid;
+  }
+}
+
+img {
+  width: 256px;
+  height: 256px;
+  margin-bottom: 2em;
+}
+
+h1 {
+  font-weight: 600;
+  font-size: 64px;
+  margin-bottom: 1em;
+}
+
+p {
+  margin-bottom: 1.2em;
+}
+
+form {
+  margin-top: 2em;
+}
+
+input {
+  box-sizing: border-box;
+  background: #f6e8e3;
+  border: 0;
+  border-radius: 5px;
+  padding: 5px;
+  width: 300px;
+  height: 44px;
+  outline: 0;
+  border: 2px solid transparent;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  color: #333;
+  text-align: center;
+
+  &:focus {
+    border: 2px solid #ecc171;
+  }
+}
+
+button {
+  background: #e88237;
+  padding: 10px 15px;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+  border: 0;
+  border-radius: 5px;
+  color: #fff;
+}
