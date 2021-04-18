@@ -1,3 +1,8 @@
+---
+title: Whiskey — Beta
+layout: markdown
+---
+
 Whiskey is a Markdown text editor for Mac. It will work *neat* (plain Gruber style) or *on the rocks* (with extensions).
 
 I have *lots* I want to do with this app. Stay tuned. Please send feedback to <a class="autolink" href="mailto:sam@nothingmagical.com">sam@nothingmagical.com</a>.
