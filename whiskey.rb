@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'json'
 
 class Whiskey < Sinatra::Base
@@ -50,7 +52,7 @@ class Whiskey < Sinatra::Base
   end
 
   def markdown(name)
-    text = erb(:"#{name.to_s}.markdown", layout: nil)
+    text = erb(:"#{name}.markdown", layout: nil)
     renderer = Redcarpet::Markdown.new(Redcarpet::Render::HTML, highlight: true)
     erb renderer.render(text).strip, layout: :markdown_layout
   end

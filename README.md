@@ -7,6 +7,6 @@ The website for Whiskey.
     $ git clone https://github.com/nothingmagical/usewhiskey.com.git
     $ cd usewhiskey.com
     $ bundle install
-    $ bundle exec shotgun
+    $ bundle exec rake server
 
 Enjoy.
