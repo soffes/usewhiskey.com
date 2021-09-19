@@ -20,7 +20,6 @@
         <p>Code coloring is greatly improved in this release. It’s still pretty inaccurate. I’ll work on improving that in future releases.</p>
       ]]></description>
       <pubDate>Sat, 05 Sep 2015 14:07:07 -0700</pubDate>
-      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/357</sparkle:releaseNotesLink>
       <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-357.zip" sparkle:version="357" length="12136165" type="application/octet-stream" sparkle:dsaSignature="MCwCFGofo22nIc12cANBtFSxIBZJKm95AhRFiLDtD+uF3zVgWetfFeW238hkpA==" />
     </item>
     <item>
@@ -40,7 +39,6 @@
         </ul>
       ]]></description>
       <pubDate>Mon, 10 Aug 2015 19:51:26 -0700</pubDate>
-      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/336</sparkle:releaseNotesLink>
       <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-336.zip" sparkle:version="336" length="8909005" type="application/octet-stream" sparkle:dsaSignature="MCwCFGeKpVEK460BJXe07Nsbb40KGGoSAhQuPyiZqHQlDvdin7VnZF9cjsmP/g==" />
     </item>
     <item>
@@ -58,7 +56,6 @@
         </ul>
       ]]></description>
       <pubDate>Sun, 21 Dec 2014 08:45:24 +0000</pubDate>
-      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/49</sparkle:releaseNotesLink>
       <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-49.zip" sparkle:version="49" length="8315811" type="application/octet-stream" sparkle:dsaSignature="MCwCFC9C2P52ZZNlcT8VoeIOjpo48aKcAhROZ2V325DqJl0RoCIErNKJkzQk6g==" />
     </item>
     <item>
@@ -81,7 +78,6 @@
         <p>Support for more languages is coming (hopefully) in the next update. The emoji fix has been remove since the multi-language will fix that indirectly. I’ve been delaying sending this out for a bit since I had hoped to get that in this one, but it’s taking awhile and wanted to go ahead and send this out.</p>
       ]]></description>
       <pubDate>Sun, 07 Dec 2014 16:31:02 -0800</pubDate>
-      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/48</sparkle:releaseNotesLink>
       <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-48.zip" sparkle:version="48" length="8315093" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCBND69zr0TbIUt2pXC+dF/0T9TLwIUUqgx1eZg8qCKaQhj1g8yB5rocDw=" />
     </item>
     <item>
@@ -94,7 +90,6 @@
         </ul>
       ]]></description>
       <pubDate>Sat, 15 Nov 2014 21:54:37 -0800</pubDate>
-      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/47</sparkle:releaseNotesLink>
       <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-47.zip" sparkle:version="47" length="7345698" type="application/octet-stream" sparkle:dsaSignature="MCwCFHUVCU7gVD+kYQrs8edR922WTn4hAhRSLnW5dL3jmOdLYfrZOG6FUACcew==" />
     </item>
     <item>
@@ -108,7 +103,6 @@
         <p>Better HTML preview is definitely coming. Hacked this first draft together pretty quick. It will definitely be a pane in the main window instead of its own window. I’m trying to figure out how themes will work. Right now, it just uses whatever theme you have selected for typing. Please send any ideas on how you want this to work to <a href="sam@nothingmagical.com" class="autolink">sam@nothingmagical.com</a>. Thanks everyone!</p>
       ]]></description>
       <pubDate>Fri, 14 Nov 2014 16:37:15 -0800</pubDate>
-      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/46</sparkle:releaseNotesLink>
       <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-46.zip" sparkle:version="46" length="7345730" type="application/octet-stream" sparkle:dsaSignature="MCwCFF9TN7dcH3mIqPaMch6KGdltnzW5AhReht77lMCpXGw51xN7irbDeeeoAQ==" />
     </item>
     <item>
@@ -129,9 +123,7 @@
 
         <p>Thanks for helping test Whiskey. Send any feedback to <a class="autolink" href="sam@nothingmagical.com">sam@nothingmagical.com</a>.</p>
       ]]></description>
-      <pubDate>Wed, 12 Nov 2014 15:15:52 -0800</pubDate>
-      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/45</sparkle:releaseNotesLink>
-      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-45.zip" sparkle:version="45" length="6088356" type="application/octet-stream" sparkle:dsaSignature="MCwCFC2+0ofdiX6Fbxv/kciVL7vs0T6uAhQtuXUKc/MpIVAvOVv+lxjwZ1E5Ig==" />
+      <pubDate>Wed, 12 Nov 2014 15:15:52 -0800</pubDate>      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-45.zip" sparkle:version="45" length="6088356" type="application/octet-stream" sparkle:dsaSignature="MCwCFC2+0ofdiX6Fbxv/kciVL7vs0T6uAhQtuXUKc/MpIVAvOVv+lxjwZ1E5Ig==" />
     </item>
     <item>
       <title>Version 0.3.2</title>
@@ -142,9 +134,7 @@
           <li>Fix code highlighting</li>
         </ul>
       ]]></description>
-      <pubDate>Fri, 07 Nov 2014 10:37:35 -0800</pubDate>
-      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/43</sparkle:releaseNotesLink>
-      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-43.zip" sparkle:version="43" length="4928907" type="application/octet-stream" sparkle:dsaSignature="MC0CFBxUd+xPjjlpRS+vUBY37X5mp0pVAhUAoURDfWJkyoQ2YS+Kngy6Rz74SDI=" />
+      <pubDate>Fri, 07 Nov 2014 10:37:35 -0800</pubDate>      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-43.zip" sparkle:version="43" length="4928907" type="application/octet-stream" sparkle:dsaSignature="MC0CFBxUd+xPjjlpRS+vUBY37X5mp0pVAhUAoURDfWJkyoQ2YS+Kngy6Rz74SDI=" />
     </item>
     <item>
       <title>Version 0.3.1</title>
@@ -159,9 +149,7 @@
         </ul>
         <p>This version now requires Yosemite.</p>
       ]]></description>
-      <pubDate>Thu, 06 Nov 2014 17:08:34 -0800</pubDate>
-      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/42</sparkle:releaseNotesLink>
-      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-42.zip" sparkle:version="42" length="4928281" type="application/octet-stream" sparkle:dsaSignature="MC4CFQCKAoiTNPxMNq/UN6xCDs93J3erRgIVAKymO8HIsG+FyjnYwcHIvrceGuZ3" />
+      <pubDate>Thu, 06 Nov 2014 17:08:34 -0800</pubDate>      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-42.zip" sparkle:version="42" length="4928281" type="application/octet-stream" sparkle:dsaSignature="MC4CFQCKAoiTNPxMNq/UN6xCDs93J3erRgIVAKymO8HIsG+FyjnYwcHIvrceGuZ3" />
     </item>
     <item>
       <title>Version 0.3</title>
@@ -177,9 +165,7 @@
         </ul>
         <p>Thanks so much for all of your feedback. Keep it coming!</p>
       ]]></description>
-      <pubDate>Tue, 04 Nov 2014 17:53:55 -0800</pubDate>
-      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/41</sparkle:releaseNotesLink>
-      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-41.zip" sparkle:version="41" length="4930309" type="application/octet-stream" sparkle:dsaSignature="MCwCFErONUfMM9WUmGuUivzlVRPtHKUfAhQ8V0NZbfT2ilpDnhw14khhtR3tHg==" />
+      <pubDate>Tue, 04 Nov 2014 17:53:55 -0800</pubDate>      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-41.zip" sparkle:version="41" length="4930309" type="application/octet-stream" sparkle:dsaSignature="MCwCFErONUfMM9WUmGuUivzlVRPtHKUfAhQ8V0NZbfT2ilpDnhw14khhtR3tHg==" />
     </item>
     <item>
       <title>Version 0.2.4</title>
@@ -190,9 +176,7 @@
           <li>Other improvements</li>
         </ul>
       ]]></description>
-      <pubDate>Mon, 03 Nov 2014 16:17:48 -0500</pubDate>
-      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/36</sparkle:releaseNotesLink>
-      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-36.zip" sparkle:version="36" length="5236217" type="application/octet-stream" sparkle:dsaSignature="MCwCFFyzn9yZwh5bJwewrj3IPKANmHIqAhQs39jyZDTlPCaynEGxJda4Jl7STw==" />
+      <pubDate>Mon, 03 Nov 2014 16:17:48 -0500</pubDate>      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-36.zip" sparkle:version="36" length="5236217" type="application/octet-stream" sparkle:dsaSignature="MCwCFFyzn9yZwh5bJwewrj3IPKANmHIqAhQs39jyZDTlPCaynEGxJda4Jl7STw==" />
     </item>
     <item>
       <title>Version 0.2.3</title>
@@ -204,9 +188,7 @@
           <li>Markdown parser improvements</li>
         </ul>
       ]]></description>
-      <pubDate>Thu, 16 Oct 2014 21:06:29 -0700</pubDate>
-      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/33</sparkle:releaseNotesLink>
-      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-33.zip" sparkle:version="33" length="5213082" type="application/octet-stream" sparkle:dsaSignature="MCwCFFCMq9cPf+Nb8YtAztWNn4BIQ/X5AhRibJI49hPVyjgR2qlqxHdlk9iiZA==" />
+      <pubDate>Thu, 16 Oct 2014 21:06:29 -0700</pubDate>      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-33.zip" sparkle:version="33" length="5213082" type="application/octet-stream" sparkle:dsaSignature="MCwCFFCMq9cPf+Nb8YtAztWNn4BIQ/X5AhRibJI49hPVyjgR2qlqxHdlk9iiZA==" />
     </item>
     <item>
       <title>Version 0.2.2</title>
@@ -217,9 +199,7 @@
           <li>Fix document icon. You may need to rebuild your LaunchServices database to see it.</li>
         </ul>
       ]]></description>
-      <pubDate>Sat, 11 Oct 2014 22:16:45 -0700</pubDate>
-      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/32</sparkle:releaseNotesLink>
-      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-32.zip" sparkle:version="32" length="5293020" type="application/octet-stream" sparkle:dsaSignature="MCwCFFlAGcuGESzIqNdg4lqfBOesHb/kAhRVryB7nh16N/rOOF091SPLvtIvNQ==" />
+      <pubDate>Sat, 11 Oct 2014 22:16:45 -0700</pubDate>      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-32.zip" sparkle:version="32" length="5293020" type="application/octet-stream" sparkle:dsaSignature="MCwCFFlAGcuGESzIqNdg4lqfBOesHb/kAhRVryB7nh16N/rOOF091SPLvtIvNQ==" />
     </item>
     <item>
       <title>Version 0.2.1</title>
@@ -229,9 +209,7 @@
           <li>Fix for default preferences not being applied correctly</li>
         </ul>
       ]]></description>
-      <pubDate>Fri, 03 Oct 2014 17:49:38 -0400</pubDate>
-      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/30</sparkle:releaseNotesLink>
-      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-30.zip" sparkle:version="30" length="5203465" type="application/octet-stream" sparkle:dsaSignature="MC0CFHxEKk7BYMOCmbvk84mj6geYtYPgAhUAmklcOgqKanS3Q1kKB8OY9tNQe9o=" />
+      <pubDate>Fri, 03 Oct 2014 17:49:38 -0400</pubDate>      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-30.zip" sparkle:version="30" length="5203465" type="application/octet-stream" sparkle:dsaSignature="MC0CFHxEKk7BYMOCmbvk84mj6geYtYPgAhUAmklcOgqKanS3Q1kKB8OY9tNQe9o=" />
     </item>
     <item>
       <title>Version 0.2</title>
@@ -242,9 +220,7 @@
           <li>Lots of performance improvements</li>
         </ul>
       ]]></description>
-      <pubDate>Thu, 25 Sep 2014 08:37:10 +0000</pubDate>
-      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/28</sparkle:releaseNotesLink>
-      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-28.zip" sparkle:version="28" length="5205636" type="application/octet-stream" sparkle:dsaSignature="MC0CFE9FX94sGnDT99A9Uax98rsFdxahAhUAhmNTxaHJepeyObdBZ4/KvaYnNXw=" />
+      <pubDate>Thu, 25 Sep 2014 08:37:10 +0000</pubDate>      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-28.zip" sparkle:version="28" length="5205636" type="application/octet-stream" sparkle:dsaSignature="MC0CFE9FX94sGnDT99A9Uax98rsFdxahAhUAhmNTxaHJepeyObdBZ4/KvaYnNXw=" />
     </item>
     <item>
       <title>Version 0.1.17</title>
@@ -254,9 +230,7 @@
           <li>Toggle tasks with Command-Return. You can make tasks like this: <code>- [ ] Call mom</code></li>
         </ul>
       ]]></description>
-      <pubDate>Sat, 20 Sep 2014 06:21:32 +0200</pubDate>
-      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/27</sparkle:releaseNotesLink>
-      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-27.zip" sparkle:version="27" length="5021018" type="application/octet-stream" sparkle:dsaSignature="MCwCFHcijUEVYAD64J3t3ilyXqavPAGVAhQ/MqO+Hw12S7qfTY0TVQBoyK4Zbg==" />
+      <pubDate>Sat, 20 Sep 2014 06:21:32 +0200</pubDate>      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-27.zip" sparkle:version="27" length="5021018" type="application/octet-stream" sparkle:dsaSignature="MCwCFHcijUEVYAD64J3t3ilyXqavPAGVAhQ/MqO+Hw12S7qfTY0TVQBoyK4Zbg==" />
     </item>
     <item>
       <title>Version 0.1.16</title>
@@ -266,9 +240,7 @@
           <li>RTF export support. Currently, this doesn’t handle high UTF-8 characters correctly.</li>
         </ul>
       ]]></description>
-      <pubDate>Tue, 27 May 2014 09:52:55 -0700</pubDate>
-      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/25</sparkle:releaseNotesLink>
-      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-25.zip" sparkle:version="25" length="4818812" type="application/octet-stream" sparkle:dsaSignature="MCwCFDf0qwT44yDuRwJgDssldRudRP0VAhQyUjfLf6d0/RE51IrONnM4SbWU1w==" />
+      <pubDate>Tue, 27 May 2014 09:52:55 -0700</pubDate>      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-25.zip" sparkle:version="25" length="4818812" type="application/octet-stream" sparkle:dsaSignature="MCwCFDf0qwT44yDuRwJgDssldRudRP0VAhQyUjfLf6d0/RE51IrONnM4SbWU1w==" />
     </item>
     <item>
       <title>Version 0.1.15</title>
@@ -284,9 +256,7 @@
           <li>New status bar design</li>
         </ul>
       ]]></description>
-      <pubDate>Fri, 21 Mar 2014 18:05:10 -0700</pubDate>
-      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/23</sparkle:releaseNotesLink>
-      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-23.zip" sparkle:version="23" length="4813129" type="application/octet-stream" sparkle:dsaSignature="MCwCFF/8bIPJd3N8EMFYs4mPySDv/WdRAhRiH5riu1ForH+n2gpBklpfe9tg3A==" />
+      <pubDate>Fri, 21 Mar 2014 18:05:10 -0700</pubDate>      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-23.zip" sparkle:version="23" length="4813129" type="application/octet-stream" sparkle:dsaSignature="MCwCFF/8bIPJd3N8EMFYs4mPySDv/WdRAhRiH5riu1ForH+n2gpBklpfe9tg3A==" />
     </item>
     <item>
       <title>Version 0.1.14</title>
@@ -297,9 +267,7 @@
         </ul>
         <p>This release was all work on MarkdownKit, the engine that powers Whiskey. I’m going through a standard set of test files. So far 2 of 22 are passing. Next, I’ll be focusing on lists.</p>
       ]]></description>
-      <pubDate>Sun, 09 Mar 2014 23:41:31 -0700</pubDate>
-      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/21</sparkle:releaseNotesLink>
-      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-21.zip" sparkle:version="21" length="4816654" type="application/octet-stream" sparkle:dsaSignature="MCwCFFOMZp37p2tbQ3QAaJ9xp+7OeROuAhQ17/2R3kdI6B6Mpz5d3jyG7kzePw==" />
+      <pubDate>Sun, 09 Mar 2014 23:41:31 -0700</pubDate>      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-21.zip" sparkle:version="21" length="4816654" type="application/octet-stream" sparkle:dsaSignature="MCwCFFOMZp37p2tbQ3QAaJ9xp+7OeROuAhQ17/2R3kdI6B6Mpz5d3jyG7kzePw==" />
     </item>
     <item>
       <title>Version 0.1.13</title>
@@ -312,9 +280,7 @@
         <p>This is the first release with HTML export! The HTML is still a work in progress. Lists are the worst right now. I’m working to match character for character the reference implementations (Gruber and Redcarpet).</p>
         <p>Smart list items still trigger if you are on the blank line after them. This will get fixed when the parser can understand plain line breaks from trailing new lines.</p>
       ]]></description>
-      <pubDate>Sat, 08 Mar 2014 11:22:49 -0800</pubDate>
-      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/19</sparkle:releaseNotesLink>
-      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-19.zip" sparkle:version="19" length="4814074" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCNXqRUGebiB1Ie6eFDiFMEFgzpbQIUdUsd/hkeEADaCbt/48KDXNMr0ck=" />
+      <pubDate>Sat, 08 Mar 2014 11:22:49 -0800</pubDate>      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-19.zip" sparkle:version="19" length="4814074" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCNXqRUGebiB1Ie6eFDiFMEFgzpbQIUdUsd/hkeEADaCbt/48KDXNMr0ck=" />
     </item>
     <item>
       <title>Version 0.1.12</title>
@@ -331,9 +297,7 @@
         <p>This release removes code coloring inside code blocks. My previous approach isn’t going to work. I’m considering either writing something from scratch or removing the feature for 1.0.</p>
         <p>I also had to remove the menu item to install the command line tool. You can simply symlink it from inside Whiskey’s bundle to where ever you want.</p>
       ]]></description>
-      <pubDate>Fri, 07 Mar 2014 17:08:26 -0800</pubDate>
-      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/18</sparkle:releaseNotesLink>
-      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-18.zip" sparkle:version="18" length="4783164" type="application/octet-stream" sparkle:dsaSignature="MCwCFGppqZ6LM8MPhZ0xKF2w0GvybUJBAhRbeLt+e1wdIihn19NkhcykT/ttrg==" />
+      <pubDate>Fri, 07 Mar 2014 17:08:26 -0800</pubDate>      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-18.zip" sparkle:version="18" length="4783164" type="application/octet-stream" sparkle:dsaSignature="MCwCFGppqZ6LM8MPhZ0xKF2w0GvybUJBAhRbeLt+e1wdIihn19NkhcykT/ttrg==" />
     </item>
     <item>
       <title>Version 0.1.11</title>
@@ -352,9 +316,7 @@
           <li>Add preference to disable varying size headers</li>
         </ul>
       ]]></description>
-      <pubDate>Mon, 17 Feb 2014 10:59:11 -0800</pubDate>
-      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/16</sparkle:releaseNotesLink>
-      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-16.zip" sparkle:version="16" length="3456749" type="application/octet-stream" sparkle:dsaSignature="MC4CFQCbt8WOU7sjGXKd3e6Y6Kwtdwo2oAIVAJBNEKD/eH0vExvop2aix2fytDU4" />
+      <pubDate>Mon, 17 Feb 2014 10:59:11 -0800</pubDate>      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-16.zip" sparkle:version="16" length="3456749" type="application/octet-stream" sparkle:dsaSignature="MC4CFQCbt8WOU7sjGXKd3e6Y6Kwtdwo2oAIVAJBNEKD/eH0vExvop2aix2fytDU4" />
     </item>
     <item>
       <title>Version 0.1.10</title>
@@ -365,9 +327,7 @@
           <li>Improved selecting multiple lines and indenting or unindenting. (Unindenting still needs a little work.)</li>
         </ul>
       ]]></description>
-      <pubDate>Fri, 14 Feb 2014 15:46:08 -0800</pubDate>
-      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/15</sparkle:releaseNotesLink>
-      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-15.zip" sparkle:version="15" length="3214250" type="application/octet-stream" sparkle:dsaSignature="MC0CFFl4LL3vJmZjtX0vT0TrdubbwG/ZAhUAnrWBnUQ7/d/wk0GPDhw+C0xEirc=" />
+      <pubDate>Fri, 14 Feb 2014 15:46:08 -0800</pubDate>      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-15.zip" sparkle:version="15" length="3214250" type="application/octet-stream" sparkle:dsaSignature="MC0CFFl4LL3vJmZjtX0vT0TrdubbwG/ZAhUAnrWBnUQ7/d/wk0GPDhw+C0xEirc=" />
     </item>
     <item>
       <title>Version 0.1.9</title>
@@ -377,9 +337,7 @@
           <li>Fix highlights at the beginning of paragraphs.</li>
         </ul>
       ]]></description>
-      <pubDate>Thu, 13 Feb 2014 18:04:22 -0800</pubDate>
-      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/14</sparkle:releaseNotesLink>
-      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-14.zip" sparkle:version="14" length="3211541" type="application/octet-stream" sparkle:dsaSignature="MCwCFFUro9veuB0wE9GYCbPlCbs4S/IJAhQN4HWmA7n8k+jYEgf+g150zkGRpg==" />
+      <pubDate>Thu, 13 Feb 2014 18:04:22 -0800</pubDate>      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-14.zip" sparkle:version="14" length="3211541" type="application/octet-stream" sparkle:dsaSignature="MCwCFFUro9veuB0wE9GYCbPlCbs4S/IJAhQN4HWmA7n8k+jYEgf+g150zkGRpg==" />
     </item>
     <item>
       <title>Version 0.1.8</title>
@@ -390,9 +348,7 @@
         </ul>
         <p>The cursor sometimes is too far to the left on new lines. Still working on that.</p>
       ]]></description>
-      <pubDate>Fri, 31 Jan 2014 14:42:52 -0800</pubDate>
-      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/12</sparkle:releaseNotesLink>
-      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-12.zip" sparkle:version="12" length="186597" type="application/octet-stream" sparkle:dsaSignature="MCwCFHH5CuhS0GPNzCmxOPGB882uJdmKAhQUgieKASesIXB2vEolPeywUfGTQA==" />
+      <pubDate>Fri, 31 Jan 2014 14:42:52 -0800</pubDate>      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-12.zip" sparkle:version="12" length="186597" type="application/octet-stream" sparkle:dsaSignature="MCwCFHH5CuhS0GPNzCmxOPGB882uJdmKAhQUgieKASesIXB2vEolPeywUfGTQA==" />
     </item>
     <item>
       <title>Version 0.1.7</title>
@@ -408,9 +364,7 @@
           <li>Fixed automatic updater</li>
         </ul>
       ]]></description>
-      <pubDate>Mon, 27 Jan 2014 07:51:47 -0500</pubDate>
-      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/11</sparkle:releaseNotesLink>
-      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-11.zip" sparkle:version="11" length="186461" type="application/octet-stream" sparkle:dsaSignature="MCwCFDYkU43SzbG91jp+GASPUQD579vzAhQ9U/qNoE3TsXRS0E+sbwoJQnbMcQ==" />
+      <pubDate>Mon, 27 Jan 2014 07:51:47 -0500</pubDate>      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-11.zip" sparkle:version="11" length="186461" type="application/octet-stream" sparkle:dsaSignature="MCwCFDYkU43SzbG91jp+GASPUQD579vzAhQ9U/qNoE3TsXRS0E+sbwoJQnbMcQ==" />
     </item>
     <item>
       <title>Version 0.1.5</title>
@@ -420,9 +374,7 @@
           <li>⌘-click links and images to open</li>
         </ul>
       ]]></description>
-      <pubDate>Sat, 18 Jan 2014 12:16:24 -0800</pubDate>
-      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/7</sparkle:releaseNotesLink>
-      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-7.zip" sparkle:version="7" length="173047" type="application/octet-stream" sparkle:dsaSignature="MC0CFD+hJ0+dxRvTUK6GLkzB4LceCc9gAhUAjEvZcn3BFtYOPKCDMewCdF3LhPM=" />
+      <pubDate>Sat, 18 Jan 2014 12:16:24 -0800</pubDate>      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-7.zip" sparkle:version="7" length="173047" type="application/octet-stream" sparkle:dsaSignature="MC0CFD+hJ0+dxRvTUK6GLkzB4LceCc9gAhUAjEvZcn3BFtYOPKCDMewCdF3LhPM=" />
     </item>
     <item>
       <title>Version 0.1.4</title>
@@ -436,9 +388,7 @@
           <li>Register to open Markdown files</li>
         </ul>
       ]]></description>
-      <pubDate>Fri, 17 Jan 2014 13:49:48 -0800</pubDate>
-      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/6</sparkle:releaseNotesLink>
-      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-6.zip" sparkle:version="6" length="170687" type="application/octet-stream" sparkle:dsaSignature="MCwCFHIPzS+cpetYFnT6x2tClMJtbuWPAhQqgcxbfpq5pzzi7YfEK8nc3SB38A==" />
+      <pubDate>Fri, 17 Jan 2014 13:49:48 -0800</pubDate>      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-6.zip" sparkle:version="6" length="170687" type="application/octet-stream" sparkle:dsaSignature="MCwCFHIPzS+cpetYFnT6x2tClMJtbuWPAhQqgcxbfpq5pzzi7YfEK8nc3SB38A==" />
     </item>
     <item>
       <title>Version 0.1.3</title>
@@ -450,9 +400,7 @@
           <li>Block-level parser improvements</li>
         </ul>
       ]]></description>
-      <pubDate>Thu, 16 Jan 2014 11:36:19 -0800</pubDate>
-      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/5</sparkle:releaseNotesLink>
-      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-5.zip" sparkle:version="5" length="1062743" type="application/octet-stream" sparkle:dsaSignature="MCwCFHPdWvondYhlDQgh+qUAfGHd6KgrAhQ7nJbiIIvqHg+U0HQ9qpx5SsIFOg==" />
+      <pubDate>Thu, 16 Jan 2014 11:36:19 -0800</pubDate>      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-5.zip" sparkle:version="5" length="1062743" type="application/octet-stream" sparkle:dsaSignature="MCwCFHPdWvondYhlDQgh+qUAfGHd6KgrAhQ7nJbiIIvqHg+U0HQ9qpx5SsIFOg==" />
     </item>
     <item>
       <title>Version 0.1.2</title>
@@ -466,25 +414,19 @@
         </ul>
         <p>This is the first version that uses a real parser instead of regular expressions. Internally it generates a tree representation of the text that will be useful for interactive editing and converting to other formats later.</p>
       ]]></description>
-      <pubDate>Sun, 12 Jan 2014 14:39:41 -0500</pubDate>
-      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/4</sparkle:releaseNotesLink>
-      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-4.zip" sparkle:version="4" length="944647" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCtxeqSQLBSsz7oWbPj43iSCHVaxQIUcUhddiM7g4d8s3W6Q+Qrdu3eRRs=" />
+      <pubDate>Sun, 12 Jan 2014 14:39:41 -0500</pubDate>      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-4.zip" sparkle:version="4" length="944647" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCtxeqSQLBSsz7oWbPj43iSCHVaxQIUcUhddiM7g4d8s3W6Q+Qrdu3eRRs=" />
     </item>
     <item>
       <title>Version 0.1.1</title>
       <description><![CDATA[<p>Added font preferences.</p>]]></description>
-      <pubDate>Thu, 09 Jan 2014 19:50:18 -0800</pubDate>
-      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/3</sparkle:releaseNotesLink>
-      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-3.zip" sparkle:version="3" length="939977" type="application/octet-stream" sparkle:dsaSignature="MCwCFEUmUYC2ASDopoTOCFhn/9ysZYtSAhRykU/H4BML27DrditYS+R5Mw2YUg==" />
+      <pubDate>Thu, 09 Jan 2014 19:50:18 -0800</pubDate>      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-3.zip" sparkle:version="3" length="939977" type="application/octet-stream" sparkle:dsaSignature="MCwCFEUmUYC2ASDopoTOCFhn/9ysZYtSAhRykU/H4BML27DrditYS+R5Mw2YUg==" />
     </item>
     <item>
       <title>Version 0.1</title>
       <description><![CDATA[
         <p>Initial alpha release.</p>
       ]]></description>
-      <pubDate>Sat, 04 Jan 2014 14:48:04 -0800</pubDate>
-      <sparkle:releaseNotesLink>http://usewhiskey.com/release-notes/2</sparkle:releaseNotesLink>
-      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-2.zip" sparkle:version="2" length="941769" type="application/octet-stream" sparkle:dsaSignature="MCwCFFQxIjPkos64O4V7FOQ71LUITldJAhRx4gd09NsO58BD1vPeGV9xOQM4AQ==" />
+      <pubDate>Sat, 04 Jan 2014 14:48:04 -0800</pubDate>      <enclosure url="https://whiskey-app.s3.amazonaws.com/builds/Whiskey-2.zip" sparkle:version="2" length="941769" type="application/octet-stream" sparkle:dsaSignature="MCwCFFQxIjPkos64O4V7FOQ71LUITldJAhRx4gd09NsO58BD1vPeGV9xOQM4AQ==" />
     </item>
   </channel>
 </rss>
